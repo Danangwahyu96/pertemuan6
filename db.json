@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "tittle": "judul",
+      "content": "Ini content"
+    },
+    {
+      "id": "2",
+      "tittle": "judul 2",
+      "content": "Ini content 2"
+    },
+    {
+      "id": null,
+      "title": "pertemuan 6",
+      "content": "axios"
+    },
+    {
+      "id": null,
+      "title": "pertemuan 6",
+      "content": "axios dan json server\n"
+    }
+  ]
+}
