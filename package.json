@@ -11,6 +11,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@vue/cli-service": "^3.3.1",
     "axios": "^1.7.2",
     "vue": "^3.4.21"
   },
@@ -18,5 +19,4 @@
     "@vitejs/plugin-vue": "^5.0.4",
     "vite": "^5.2.0"
   }
-
 }
